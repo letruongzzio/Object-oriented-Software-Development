@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|solutionrelative:stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2711976-F95A-4850-A17F-E48DF564C2B2}|business_layer\\business_layer.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2711976-F95A-4850-A17F-E48DF564C2B2}|business_layer\\business_layer.csproj|solutionrelative:business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|solutionrelative:data_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "STOCK\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\MainWindow.xaml",
+              "RelativeToolTip": "STOCK\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T00:25:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\business_layer\\Class1.cs",
+              "RelativeDocumentMoniker": "business_layer\\Class1.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\business_layer\\Class1.cs",
+              "RelativeToolTip": "business_layer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:56:38.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Class1.cs",
+              "RelativeDocumentMoniker": "data_layer\\Class1.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Class1.cs",
+              "RelativeToolTip": "data_layer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:55:37.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

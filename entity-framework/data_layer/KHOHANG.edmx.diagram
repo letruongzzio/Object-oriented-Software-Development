@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4bbe92269de94ec9ba52f8359b56f5c5" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="KHOHANG.tb_CHUNGTU" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_CONGTY" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_DONVI" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_DVT" Width="1.5" PointX="2.625" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_HANGHOA" Width="1.5" PointX="4.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_NHACUNGCAP" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_FUNC" Width="1.5" PointX="6.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_GROUP" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_REPORT" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_RIGHT" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_RIGHT_REP" Width="1.5" PointX="8.625" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_SYS_USER" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_TONKHO" Width="1.5" PointX="6.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.tb_XUATXU" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHOHANG.V_FUNC_SYS_RIGHT" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
