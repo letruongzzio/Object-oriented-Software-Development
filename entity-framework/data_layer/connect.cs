@@ -47,7 +47,7 @@ namespace data_layer
             this.database = _database;
         }
 
-        public void SaveFile()
+        public void ConnectData()
         {
             if (File.Exists("connectdb.dba"))
             {
@@ -59,4 +59,5 @@ namespace data_layer
             bf.Serialize(fs, this);
             fs.Close();
         }
+    }
 }

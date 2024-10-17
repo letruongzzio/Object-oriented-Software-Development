@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|solutionrelative:stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2711976-F95A-4850-A17F-E48DF564C2B2}|business_layer\\business_layer.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2711976-F95A-4850-A17F-E48DF564C2B2}|business_layer\\business_layer.csproj|solutionrelative:business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|solutionrelative:stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|solutionrelative:data_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\data_layer\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|solutionrelative:data_layer\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\data_layer\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|solutionrelative:data_layer\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|c:\\users\\lephu\\onedrive\\desktop\\object-oriented-software-development\\entity-framework\\data_layer\\encryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8D305-CFFA-4F3A-BEEB-79AE53371871}|data_layer\\data_layer.csproj|solutionrelative:data_layer\\encryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "STOCK\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\MainWindow.xaml",
-              "RelativeToolTip": "STOCK\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T00:25:11.934Z",
+              "DocumentIndex": 4,
+              "Title": "connect.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\connect.cs",
+              "RelativeDocumentMoniker": "data_layer\\connect.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\connect.cs",
+              "RelativeToolTip": "data_layer\\connect.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:13:56.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\business_layer\\Class1.cs",
-              "RelativeDocumentMoniker": "business_layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\business_layer\\Class1.cs",
-              "RelativeToolTip": "business_layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Entity.cs",
+              "RelativeDocumentMoniker": "data_layer\\Entity.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Entity.cs",
+              "RelativeToolTip": "data_layer\\Entity.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:56:38.097Z",
+              "WhenOpened": "2024-10-17T03:59:30.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Class1.cs",
-              "RelativeDocumentMoniker": "data_layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Class1.cs",
-              "RelativeToolTip": "data_layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmConnect.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmConnect.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
+              "RelativeToolTip": "STOCK\\frmConnect.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:55:37.195Z"
+              "WhenOpened": "2024-10-17T03:21:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
+              "RelativeDocumentMoniker": "STOCK\\Program.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
+              "RelativeToolTip": "STOCK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:15:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmConnect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmConnect.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs [Design]",
+              "RelativeToolTip": "STOCK\\frmConnect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:06:10.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encryptor.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Encryptor.cs",
+              "RelativeDocumentMoniker": "data_layer\\Encryptor.cs",
+              "ToolTip": "C:\\Users\\lephu\\OneDrive\\Desktop\\Object-oriented-Software-Development\\entity-framework\\data_layer\\Encryptor.cs",
+              "RelativeToolTip": "data_layer\\Encryptor.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:17:49.537Z",
+              "EditorCaption": ""
             }
           ]
         }

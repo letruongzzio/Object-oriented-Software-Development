@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KHOHANGStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="tb_CHUNGTU">
+      <EntityTypeMapping TypeName="KHOHANG.tb_CHUNGTU">
+        <MappingFragment StoreEntitySet="tb_CHUNGTU">
+          <ScalarProperty Name="KHOA" ColumnName="KHOA" />
+          <ScalarProperty Name="SCT" ColumnName="SCT" />
+          <ScalarProperty Name="NGAY" ColumnName="NGAY" />
+          <ScalarProperty Name="SCT2" ColumnName="SCT2" />
+          <ScalarProperty Name="NGAY2" ColumnName="NGAY2" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="TONGTIEN" ColumnName="TONGTIEN" />
+          <ScalarProperty Name="GHICHU" ColumnName="GHICHU" />
+          <ScalarProperty Name="MACTY" ColumnName="MACTY" />
+          <ScalarProperty Name="MADVI" ColumnName="MADVI" />
+          <ScalarProperty Name="MADVI2" ColumnName="MADVI2" />
+          <ScalarProperty Name="TRANGTHAI" ColumnName="TRANGTHAI" />
+          <ScalarProperty Name="CREATED_DATE" ColumnName="CREATED_DATE" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="UPDATED_DATE" ColumnName="UPDATED_DATE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="DELETED_DATE" ColumnName="DELETED_DATE" />
+          <ScalarProperty Name="DELETED_BY" ColumnName="DELETED_BY" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_CONGTY">
+      <EntityTypeMapping TypeName="KHOHANG.tb_CONGTY">
+        <MappingFragment StoreEntitySet="tb_CONGTY">
+          <ScalarProperty Name="MACTY" ColumnName="MACTY" />
+          <ScalarProperty Name="TENCTY" ColumnName="TENCTY" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="FAX" ColumnName="FAX" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="DISABLE" ColumnName="DISABLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_DONVI">
+      <EntityTypeMapping TypeName="KHOHANG.tb_DONVI">
+        <MappingFragment StoreEntitySet="tb_DONVI">
+          <ScalarProperty Name="MADONVI" ColumnName="MADONVI" />
+          <ScalarProperty Name="TENDONVI" ColumnName="TENDONVI" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="FAX" ColumnName="FAX" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="DISABLE" ColumnName="DISABLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_DVT">
+      <EntityTypeMapping TypeName="KHOHANG.tb_DVT">
+        <MappingFragment StoreEntitySet="tb_DVT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_HANGHOA">
+      <EntityTypeMapping TypeName="KHOHANG.tb_HANGHOA">
+        <MappingFragment StoreEntitySet="tb_HANGHOA">
+          <ScalarProperty Name="BARCODE" ColumnName="BARCODE" />
+          <ScalarProperty Name="TENHH" ColumnName="TENHH" />
+          <ScalarProperty Name="TENTAT" ColumnName="TENTAT" />
+          <ScalarProperty Name="DVT" ColumnName="DVT" />
+          <ScalarProperty Name="DONGIA" ColumnName="DONGIA" />
+          <ScalarProperty Name="MANCC" ColumnName="MANCC" />
+          <ScalarProperty Name="XUATXU" ColumnName="XUATXU" />
+          <ScalarProperty Name="CREATE_DATE" ColumnName="CREATE_DATE" />
+          <ScalarProperty Name="CREATE_BY" ColumnName="CREATE_BY" />
+          <ScalarProperty Name="DISABLED" ColumnName="DISABLED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_NHACUNGCAP">
+      <EntityTypeMapping TypeName="KHOHANG.tb_NHACUNGCAP">
+        <MappingFragment StoreEntitySet="tb_NHACUNGCAP">
+          <ScalarProperty Name="MANCC" ColumnName="MANCC" />
+          <ScalarProperty Name="TENNCC" ColumnName="TENNCC" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="FAX" ColumnName="FAX" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="CREATE_DATE" ColumnName="CREATE_DATE" />
+          <ScalarProperty Name="DISABLE" ColumnName="DISABLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_FUNC">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_FUNC">
+        <MappingFragment StoreEntitySet="tb_SYS_FUNC">
+          <ScalarProperty Name="FUNC_CODE" ColumnName="FUNC_CODE" />
+          <ScalarProperty Name="SORT" ColumnName="SORT" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="ISGROUP" ColumnName="ISGROUP" />
+          <ScalarProperty Name="PARENT" ColumnName="PARENT" />
+          <ScalarProperty Name="MENU" ColumnName="MENU" />
+          <ScalarProperty Name="TIPS" ColumnName="TIPS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_GROUP">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_GROUP">
+        <MappingFragment StoreEntitySet="tb_SYS_GROUP">
+          <ScalarProperty Name="FUNC_CODE" ColumnName="FUNC_CODE" />
+          <ScalarProperty Name="SORT" ColumnName="SORT" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="ISGROUP" ColumnName="ISGROUP" />
+          <ScalarProperty Name="PARENT" ColumnName="PARENT" />
+          <ScalarProperty Name="MENU" ColumnName="MENU" />
+          <ScalarProperty Name="TIPS" ColumnName="TIPS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_REPORT">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_REPORT">
+        <MappingFragment StoreEntitySet="tb_SYS_REPORT">
+          <ScalarProperty Name="REP_CODE" ColumnName="REP_CODE" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="REP_NAME" ColumnName="REP_NAME" />
+          <ScalarProperty Name="VISIBLE" ColumnName="VISIBLE" />
+          <ScalarProperty Name="TUNGAY" ColumnName="TUNGAY" />
+          <ScalarProperty Name="THANGNAM" ColumnName="THANGNAM" />
+          <ScalarProperty Name="MACTY" ColumnName="MACTY" />
+          <ScalarProperty Name="MADVI" ColumnName="MADVI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_RIGHT">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_RIGHT">
+        <MappingFragment StoreEntitySet="tb_SYS_RIGHT">
+          <ScalarProperty Name="FUNC_CODE" ColumnName="FUNC_CODE" />
+          <ScalarProperty Name="IDUSER" ColumnName="IDUSER" />
+          <ScalarProperty Name="USER_RIGHT" ColumnName="USER_RIGHT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_RIGHT_REP">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_RIGHT_REP">
+        <MappingFragment StoreEntitySet="tb_SYS_RIGHT_REP">
+          <ScalarProperty Name="REP_CODE" ColumnName="REP_CODE" />
+          <ScalarProperty Name="IDUSER" ColumnName="IDUSER" />
+          <ScalarProperty Name="USER_RIGHT" ColumnName="USER_RIGHT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SYS_USER">
+      <EntityTypeMapping TypeName="KHOHANG.tb_SYS_USER">
+        <MappingFragment StoreEntitySet="tb_SYS_USER">
+          <ScalarProperty Name="IDUSER" ColumnName="IDUSER" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWD" ColumnName="PASSWD" />
+          <ScalarProperty Name="FULLNAME" ColumnName="FULLNAME" />
+          <ScalarProperty Name="MACTY" ColumnName="MACTY" />
+          <ScalarProperty Name="MADVI" ColumnName="MADVI" />
+          <ScalarProperty Name="LAST_PWD_CHANGED" ColumnName="LAST_PWD_CHANGED" />
+          <ScalarProperty Name="DISABLED" ColumnName="DISABLED" />
+          <ScalarProperty Name="ISGROUP" ColumnName="ISGROUP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_TONKHO">
+      <EntityTypeMapping TypeName="KHOHANG.tb_TONKHO">
+        <MappingFragment StoreEntitySet="tb_TONKHO">
+          <ScalarProperty Name="KHOA" ColumnName="KHOA" />
+          <ScalarProperty Name="NAMKY" ColumnName="NAMKY" />
+          <ScalarProperty Name="NAM" ColumnName="NAM" />
+          <ScalarProperty Name="KY" ColumnName="KY" />
+          <ScalarProperty Name="MADVI" ColumnName="MADVI" />
+          <ScalarProperty Name="LG_DAU" ColumnName="LG_DAU" />
+          <ScalarProperty Name="LG_NHAP" ColumnName="LG_NHAP" />
+          <ScalarProperty Name="LG_XUAT" ColumnName="LG_XUAT" />
+          <ScalarProperty Name="LG_CUOI" ColumnName="LG_CUOI" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+          <ScalarProperty Name="NGAY" ColumnName="NGAY" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_XUATXU">
+      <EntityTypeMapping TypeName="KHOHANG.tb_XUATXU">
+        <MappingFragment StoreEntitySet="tb_XUATXU">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="V_FUNC_SYS_RIGHT">
+      <EntityTypeMapping TypeName="KHOHANG.V_FUNC_SYS_RIGHT">
+        <MappingFragment StoreEntitySet="V_FUNC_SYS_RIGHT">
+          <ScalarProperty Name="FUNC_CODE" ColumnName="FUNC_CODE" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="ISGROUP" ColumnName="ISGROUP" />
+          <ScalarProperty Name="PARENT" ColumnName="PARENT" />
+          <ScalarProperty Name="SORT" ColumnName="SORT" />
+          <ScalarProperty Name="IDUSER" ColumnName="IDUSER" />
+          <ScalarProperty Name="Không" ColumnName="Không" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

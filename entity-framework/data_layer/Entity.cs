@@ -44,7 +44,7 @@ namespace data_layer
             entityBuilder.Provider = "System.Data.SqlClient";
             entityBuilder.ProviderConnectionString = sqlConnectionString;
 
-            entityBuilder.Metadata = @"res://*/KHACHSAN.csdl|res://*/KHACHSAN.ssdl|res://*/KHACHSAN.msl";
+            entityBuilder.Metadata = @"res://*/KHOHANG.csdl|res://*/KHOHANG.ssdl|res://*/KHOHANG.msl";
 
             EntityConnection connection = new EntityConnection(entityBuilder.ConnectionString);
 

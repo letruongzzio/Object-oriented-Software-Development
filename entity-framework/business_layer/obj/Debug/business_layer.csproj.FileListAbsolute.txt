@@ -1,0 +1,15 @@
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\obj\Debug\business_layer.csproj.AssemblyReference.cache
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\obj\Debug\business_layer.csproj.CoreCompileInputs.cache
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\business_layer.dll.config
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\business_layer.dll
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\business_layer.pdb
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\data_layer.dll
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\EntityFramework.dll
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\data_layer.pdb
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\data_layer.dll.config
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\EntityFramework.xml
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\obj\Debug\business.DD7188E7.Up2Date
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\obj\Debug\business_layer.dll
+C:\Users\lephu\OneDrive\Desktop\Object-oriented-Software-Development\entity-framework\business_layer\obj\Debug\business_layer.pdb
