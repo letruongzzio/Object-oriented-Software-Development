@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ADMIN\Desktop\OOAD\QUANLYKHOHANG\BusinessLayer\obj\Debug\BusinessLayer.pdb

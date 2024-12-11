@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KHOHANG" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_CHUNGTU">
+    <Key>
+      <PropertyRef Name="KHOA" />
+    </Key>
+    <Property Name="KHOA" Type="Guid" Nullable="false" />
+    <Property Name="SCT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY" Type="DateTime" Precision="3" />
+    <Property Name="SCT2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY2" Type="DateTime" Precision="3" />
+    <Property Name="SOLUONG" Type="Int32" />
+    <Property Name="TONGTIEN" Type="Double" />
+    <Property Name="GHICHU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MACTY" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MADVI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MADVI2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TRANGTHAI" Type="Boolean" />
+    <Property Name="CREATED_DATE" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_DATE" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="DELETED_DATE" Type="DateTime" Precision="3" />
+    <Property Name="DELETED_BY" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tb_CHUNGTU_CT">
+    <Key>
+      <PropertyRef Name="KHOACT" />
+    </Key>
+    <Property Name="KHOACT" Type="Guid" Nullable="false" />
+    <Property Name="KHOA" Type="Guid" />
+    <Property Name="NGAY" Type="DateTime" Precision="3" />
+    <Property Name="SOLUONG" Type="Int32" />
+    <Property Name="DONGIA" Type="Double" />
+    <Property Name="THANHTIEN" Type="Double" />
+  </EntityType>
+  <EntityType Name="tb_CONGTY">
+    <Key>
+      <PropertyRef Name="MACTY" />
+    </Key>
+    <Property Name="MACTY" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TENCTY" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="DIENTHOAI" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FAX" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="DISABLE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_DONVI">
+    <Key>
+      <PropertyRef Name="MADONVI" />
+    </Key>
+    <Property Name="MADONVI" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TENDONVI" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="DIENTHOAI" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FAX" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="DISABLE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_DVT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TEN" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tb_HANGHOA">
+    <Key>
+      <PropertyRef Name="BARCODE" />
+    </Key>
+    <Property Name="BARCODE" Type="String" MaxLength="13" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TENHH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TENTAT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DVT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DONGIA" Type="Double" />
+    <Property Name="MANCC" Type="Int32" />
+    <Property Name="XUATXU" Type="Int32" />
+    <Property Name="CREATE_DATE" Type="DateTime" Precision="3" />
+    <Property Name="CREATE_BY" Type="Int32" />
+    <Property Name="DISABLED" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_NHACUNGCAP">
+    <Key>
+      <PropertyRef Name="MANCC" />
+    </Key>
+    <Property Name="MANCC" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENNCC" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="DIENTHOAI" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="FAX" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="CREATE_DATE" Type="DateTime" Precision="3" />
+    <Property Name="DISABLE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_SYS_FUNC">
+    <Key>
+      <PropertyRef Name="FUNC_CODE" />
+    </Key>
+    <Property Name="FUNC_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SORT" Type="Int32" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ISGROUP" Type="Boolean" />
+    <Property Name="PARENT" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MENU" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="TIPS" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tb_SYS_GROUP">
+    <Key>
+      <PropertyRef Name="FUNC_CODE" />
+    </Key>
+    <Property Name="FUNC_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SORT" Type="Int32" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ISGROUP" Type="Boolean" />
+    <Property Name="PARENT" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MENU" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="TIPS" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tb_SYS_REPORT">
+    <Key>
+      <PropertyRef Name="REP_CODE" />
+    </Key>
+    <Property Name="REP_CODE" Type="Int32" Nullable="false" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="REP_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="VISIBLE" Type="Boolean" />
+    <Property Name="TUNGAY" Type="Boolean" />
+    <Property Name="THANGNAM" Type="Boolean" />
+    <Property Name="MACTY" Type="Boolean" />
+    <Property Name="MADVI" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_SYS_RIGHT">
+    <Key>
+      <PropertyRef Name="FUNC_CODE" />
+    </Key>
+    <Property Name="FUNC_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IDUSER" Type="Int32" />
+    <Property Name="USER_RIGHT" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tb_SYS_RIGHT_REP">
+    <Key>
+      <PropertyRef Name="REP_CODE" />
+    </Key>
+    <Property Name="REP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IDUSER" Type="Int32" />
+    <Property Name="USER_RIGHT" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tb_SYS_USER">
+    <Key>
+      <PropertyRef Name="IDUSER" />
+    </Key>
+    <Property Name="IDUSER" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FULLNAME" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="MACTY" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MADVI" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LAST_PWD_CHANGED" Type="DateTime" Precision="3" />
+    <Property Name="DISABLED" Type="Boolean" />
+    <Property Name="ISGROUP" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tb_TONKHO">
+    <Key>
+      <PropertyRef Name="KHOA" />
+    </Key>
+    <Property Name="KHOA" Type="Guid" Nullable="false" />
+    <Property Name="NAMKY" Type="Int32" />
+    <Property Name="NAM" Type="Int32" />
+    <Property Name="KY" Type="Int32" />
+    <Property Name="MADVI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LG_DAU" Type="Int32" />
+    <Property Name="LG_NHAP" Type="Int32" />
+    <Property Name="LG_XUAT" Type="Int32" />
+    <Property Name="LG_CUOI" Type="Int32" />
+    <Property Name="THANHTIEN" Type="Double" />
+    <Property Name="NGAY" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="tb_XUATXU">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TEN" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_CHUNGTU" EntityType="Self.tb_CHUNGTU" />
+    <EntitySet Name="tb_CHUNGTU_CT" EntityType="Self.tb_CHUNGTU_CT" />
+    <EntitySet Name="tb_CONGTY" EntityType="Self.tb_CONGTY" />
+    <EntitySet Name="tb_DONVI" EntityType="Self.tb_DONVI" />
+    <EntitySet Name="tb_DVT" EntityType="Self.tb_DVT" />
+    <EntitySet Name="tb_HANGHOA" EntityType="Self.tb_HANGHOA" />
+    <EntitySet Name="tb_NHACUNGCAP" EntityType="Self.tb_NHACUNGCAP" />
+    <EntitySet Name="tb_SYS_FUNC" EntityType="Self.tb_SYS_FUNC" />
+    <EntitySet Name="tb_SYS_GROUP" EntityType="Self.tb_SYS_GROUP" />
+    <EntitySet Name="tb_SYS_REPORT" EntityType="Self.tb_SYS_REPORT" />
+    <EntitySet Name="tb_SYS_RIGHT" EntityType="Self.tb_SYS_RIGHT" />
+    <EntitySet Name="tb_SYS_RIGHT_REP" EntityType="Self.tb_SYS_RIGHT_REP" />
+    <EntitySet Name="tb_SYS_USER" EntityType="Self.tb_SYS_USER" />
+    <EntitySet Name="tb_TONKHO" EntityType="Self.tb_TONKHO" />
+    <EntitySet Name="tb_XUATXU" EntityType="Self.tb_XUATXU" />
+  </EntityContainer>
+</Schema>
