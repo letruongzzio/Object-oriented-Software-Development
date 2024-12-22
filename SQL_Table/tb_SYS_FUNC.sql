@@ -25,7 +25,7 @@ CREATE TABLE [dbo].[tb_SYS_FUNC](
 	[ISGROUP] [bit] NULL,
 	[PARENT] [varchar](50) NULL,
 	[MENU] [bit] NULL,
-	[TIPS] [varchar](max) NULL,
+	[TIPS] [nvarchar](max) NULL,
     CONSTRAINT [PK_tb_SYS_FUNC] PRIMARY KEY CLUSTERED ([FUNC_CODE] ASC)
 )
 
