@@ -21,6 +21,6 @@ namespace DataLayer
         public string EMAIL { get; set; }
         public string DIACHI { get; set; }
         public Nullable<System.DateTime> CREATE_DATE { get; set; }
-        public Nullable<bool> DISABLE { get; set; }
+        public Nullable<bool> DISABLED { get; set; }
     }
 }

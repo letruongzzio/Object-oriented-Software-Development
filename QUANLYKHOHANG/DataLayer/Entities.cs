@@ -40,15 +40,14 @@ namespace DataLayer
 
 			string sqlConnectionString = sqlConnectBuilder.ConnectionString;
 
-			EntityConnectionStringBuilder entityBuilder = new EntityConnectionStringBuilder();
-			entityBuilder.Provider = "System.Data.SqlClient";
-			entityBuilder.ProviderConnectionString = sqlConnectionString;
+            EntityConnectionStringBuilder entityBuilder = new EntityConnectionStringBuilder();
+            entityBuilder.Metadata = @"res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl";
+            entityBuilder.Provider = "System.Data.SqlClient";
+            entityBuilder.ProviderConnectionString = sqlConnectionString;
 
-			entityBuilder.Metadata = @"res://*/KHOHANG.csdl|res://*/KHOHANG.ssdl|res://*/KHOHANG.msl";
+            EntityConnection connection = new EntityConnection(entityBuilder.ConnectionString);
 
-			EntityConnection connection = new EntityConnection(entityBuilder.ConnectionString);
-
-			fs.Close();
+            fs.Close();
 			return new Entities(connection);
 		}
 	}

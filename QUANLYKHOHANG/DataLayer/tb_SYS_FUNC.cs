@@ -19,7 +19,7 @@ namespace DataLayer
         public string DESCRIPTION { get; set; }
         public Nullable<bool> ISGROUP { get; set; }
         public string PARENT { get; set; }
-        public string MENU { get; set; }
+        public Nullable<bool> MENU { get; set; }
         public string TIPS { get; set; }
     }
 }

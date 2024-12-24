@@ -1,32 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\",
+  "WorkspaceRootPath": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STOCK\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|c:\\users\\lephu\\source\\repos\\object-oriented-software-development\\quanlykhohang\\stock\\frmnhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmnhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\stock\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|c:\\users\\lephu\\source\\repos\\object-oriented-software-development\\quanlykhohang\\stock\\frmnhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmnhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\DataLayer\\Encryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLayer\\Encryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lephu\\source\\repos\\object-oriented-software-development\\quanlykhohang\\businesslayer\\nhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\nhomhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\frmConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STOCK\\frmConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\stock\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|solutionrelative:stock\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stock\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9925ED22-B66A-4D37-8DC1-CC4EEDFDFDD1}|DataLayer\\DataLayer.csproj|c:\\users\\lephu\\source\\repos\\object-oriented-software-development\\quanlykhohang\\datalayer\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9925ED22-B66A-4D37-8DC1-CC4EEDFDFDD1}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\stock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\businesslayer\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\stock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF09CE7-BCF0-4C25-ADB1-146FA58F8277}|STOCK\\STOCK.csproj|solutionrelative:stock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\businesslayer\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD69FD-5884-4C4A-8BBE-0144F37DF4BC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,91 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Object-oriented-Software-Development\\entity-framework\\STOCK\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:20:41.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Encryptor.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\DataLayer\\Encryptor.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Encryptor.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\DataLayer\\Encryptor.cs",
-              "RelativeToolTip": "DataLayer\\Encryptor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:15:25.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmConnect.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
-              "RelativeToolTip": "..\\..\\..\\Object-oriented-Software-Development\\entity-framework\\STOCK\\frmConnect.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:07:00.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmConnect.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\frmConnect.cs",
-              "RelativeDocumentMoniker": "STOCK\\frmConnect.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\frmConnect.cs",
-              "RelativeToolTip": "STOCK\\frmConnect.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwEEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:58:45.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "frmConnect.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\frmConnect.cs",
-              "RelativeDocumentMoniker": "STOCK\\frmConnect.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\frmConnect.cs [Design]",
-              "RelativeToolTip": "STOCK\\frmConnect.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:18:45.437Z"
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\DataLayer\\Model1.edmx",
+              "RelativeDocumentMoniker": "DataLayer\\Model1.edmx",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\DataLayer\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DataLayer\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-23T23:30:49.657Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\Program.cs",
-              "RelativeDocumentMoniker": "STOCK\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\Program.cs",
-              "RelativeToolTip": "STOCK\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCsAAAAFAAAAAAAAAA==",
+              "Title": "frmNhomHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhomHangHoa.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmNhomHangHoa.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhomHangHoa.cs",
+              "RelativeToolTip": "STOCK\\frmNhomHangHoa.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAlwIUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:15:22.97Z",
+              "WhenOpened": "2024-12-23T23:03:09.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhomHangHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhomHangHoa.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmNhomHangHoa.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhomHangHoa.cs [Design]",
+              "RelativeToolTip": "STOCK\\frmNhomHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:50:32.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NHOMHANGHOA.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\NHOMHANGHOA.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\NHOMHANGHOA.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\NHOMHANGHOA.cs",
+              "RelativeToolTip": "BusinessLayer\\NHOMHANGHOA.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:42:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\MainForm.cs",
+              "RelativeDocumentMoniker": "STOCK\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\MainForm.cs",
+              "RelativeToolTip": "STOCK\\MainForm.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:29:01.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\MainForm.cs",
-              "RelativeDocumentMoniker": "STOCK\\MainForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\OOAD\\QUANLYKHOHANG\\STOCK\\MainForm.cs [Design]",
-              "RelativeToolTip": "STOCK\\MainForm.cs [Design]",
+              "Title": "CONGTY.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\CONGTY.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CONGTY.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\CONGTY.cs",
+              "RelativeToolTip": "BusinessLayer\\CONGTY.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:15:19.697Z"
+              "WhenOpened": "2024-12-23T20:25:13.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmNhaCungCap.cs",
+              "RelativeToolTip": "STOCK\\frmNhaCungCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:12:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NHACUNGCAP.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\NHACUNGCAP.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\NHACUNGCAP.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\BusinessLayer\\NHACUNGCAP.cs",
+              "RelativeToolTip": "BusinessLayer\\NHACUNGCAP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:58:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCongTy.cs",
+              "DocumentMoniker": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmCongTy.cs",
+              "RelativeDocumentMoniker": "STOCK\\frmCongTy.cs",
+              "ToolTip": "C:\\Users\\lephu\\source\\repos\\Object-Oriented-Software-Development\\QUANLYKHOHANG\\STOCK\\frmCongTy.cs",
+              "RelativeToolTip": "STOCK\\frmCongTy.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:01:27.937Z",
+              "EditorCaption": ""
             }
           ]
         }

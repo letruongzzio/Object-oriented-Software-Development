@@ -55,9 +55,9 @@ namespace DataLayer
 			}
 
 			FileStream fs = File.Open("connectdb.dba", FileMode.OpenOrCreate, FileAccess.Write);
-			BinaryFormatter bf = new BinaryFormatter();
-			bf.Serialize(fs, this);
-			fs.Close();
-		}
+            BinaryFormatter bf = new BinaryFormatter();
+            bf.Serialize(fs, this);
+            fs.Close();
+        }
 	}
 }

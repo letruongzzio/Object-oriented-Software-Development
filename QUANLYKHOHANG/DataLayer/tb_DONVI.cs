@@ -14,12 +14,15 @@ namespace DataLayer
     
     public partial class tb_DONVI
     {
-        public string MADONVI { get; set; }
-        public string TENDONVI { get; set; }
+        public string MADVI { get; set; }
+        public string TENDVI { get; set; }
         public string DIENTHOAI { get; set; }
         public string EMAIL { get; set; }
         public string FAX { get; set; }
         public string DIACHI { get; set; }
-        public Nullable<bool> DISABLE { get; set; }
+        public Nullable<bool> DISABLED { get; set; }
+        public Nullable<bool> KHO { get; set; }
+        public string MACTY { get; set; }
+        public string KYHIEU { get; set; }
     }
 }
